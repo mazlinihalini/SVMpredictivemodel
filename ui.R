@@ -106,7 +106,7 @@ shinyUI(fluidPage(
             tags$p("Title: Patient Readmission Risk Predictive Model - SVM"),
             tags$p("Developer: Mazlini Halini Binti Mazlan Halili"),
             tags$p("Tools: R Programming Language and RStudio"),
-            tags$p("Source Code: ", tags$a(href="https://github.com/mazlinihalini/London-Shinyapps/tree/master/CrimeRate", "Click to get source code")),
+            tags$p("Source Code: ", tags$a(href="https://github.com/mazlinihalini/SVMpredictivemodel", "Click to get source code")),
             tags$p("Data Source: ", br(), a("1. Data Mining and Biomedical Informatics Lab at VCU ", 
                                             href = "http://www.cioslab.vcu.edu/",
                                             target ="_blank"))
