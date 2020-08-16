@@ -8,11 +8,6 @@
 #
 
 library(shiny)
-library(caret)
-library(ROSE)
-library(e1071)
-library(tidyverse)
-library(dplyr)
 library(shinythemes)
 
 # Define UI for application that draws a histogram
